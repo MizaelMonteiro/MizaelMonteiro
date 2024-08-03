@@ -1,7 +1,7 @@
 ## Oi
 
 - 🌱 I’m currently learning about version control
-
+![javascript](https://github.com/user-attachments/assets/f404c0be-46ba-4c09-bf2e-1d3fbaaa1ec7)
 
 <!--
 **MizaelMonteiro/MizaelMonteiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
