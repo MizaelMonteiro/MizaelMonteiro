@@ -1,5 +1,11 @@
 ## Oi
+
+- 🌱 I’m currently learning about version control
+
+https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg
+
 [![](https://visitcount.itsvg.in/api?id=MizaelMonteiro&label=%20&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
 <!--
 **MizaelMonteiro/MizaelMonteiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
