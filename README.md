@@ -1,3 +1,7 @@
+
+<h1 align="center">Oi 👍</h1>
+<br/>
+
 ## I know some things about
 <img
     align="left"
@@ -26,6 +30,9 @@
     src="https://github.com/user-attachments/assets/cf88ad86-2aff-4713-9702-0506bff92fa6"
 />
 <br/>
+<br/> 
+<br/>
+   
 ## I'm currently learning
 
 <img
@@ -48,12 +55,10 @@
     src="https://github.com/user-attachments/assets/38808af9-8ba0-4e76-991a-afd2cfae5ce7"
 />
 <br/>
-
-
 <br/>
- 
- 
 <br/>
+
+## 
    
 Icons by <a target="_blank" href="https://icons8.com">Icons8</a>
 <!--
