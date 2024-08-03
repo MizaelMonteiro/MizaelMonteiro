@@ -1,6 +1,5 @@
 
-<h1 align="center">Oi 👍</h1>
-<br/>
+<h1 align="center"> <p>Oi 👍<p/></h1>
 
 ## I know some things about
 <img
