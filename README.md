@@ -2,8 +2,6 @@
 
 - 🌱 I’m currently learning about version control
 
-https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg
-
 
 <!--
 **MizaelMonteiro/MizaelMonteiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
