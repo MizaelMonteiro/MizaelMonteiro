@@ -1,7 +1,11 @@
 
 <h1 align="center"> <p>Oi 👍<p/></h1>
 
-## I know some things about
+<h3 align="center">I'm a informatics student at IFRN. I'm trying to gain more knowledge about different programming languages and technologies. I'm also looking for a professional experience to apply what I've learned.</h3>
+
+##
+
+<h3 align="left">I know some things about:</h3>
 <img
     align="left"
     title="Python"
@@ -31,9 +35,10 @@
 <br/>
 <br/> 
 <br/>
-   
-## I'm currently learning
 
+##
+
+<h3 align="left">I'm currently learning:</h3>
 <img
     align="left"
     title="Git"
@@ -53,13 +58,7 @@
     width="30px"
     src="https://github.com/user-attachments/assets/38808af9-8ba0-4e76-991a-afd2cfae5ce7"
 />
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-   
-Icons by <a target="_blank" href="https://icons8.com">Icons8</a>
+
 <!--
 **MizaelMonteiro/MizaelMonteiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
