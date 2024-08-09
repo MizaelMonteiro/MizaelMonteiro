@@ -1,5 +1,5 @@
 
-<h1 align="center"> <p>Oi 👍<p/></h1>
+<h1 align="center"> <p>Olá<p/></h1>
 
 <h3 align="center">I'm a informatics student at IFRN. I'm trying to gain more knowledge about different programming languages and technologies. I'm also looking for a professional experience to apply what I've learned.</h3>
 
