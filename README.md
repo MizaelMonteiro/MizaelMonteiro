@@ -32,6 +32,13 @@
     width="30px"
     src="https://github.com/user-attachments/assets/cf88ad86-2aff-4713-9702-0506bff92fa6"
 />
+
+<img
+    align="left"
+    title="MySQL"
+    width="30px"
+    src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000"
+/>
 <br/>
 <br/> 
 <br/>
