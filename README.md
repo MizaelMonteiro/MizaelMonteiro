@@ -37,8 +37,24 @@
     align="left"
     title="MySQL"
     width="30px"
-    src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000"
+    src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=111111"
 />
+
+<img
+    align="left"
+    title="Git"
+    width="30px" 
+    src="https://github.com/user-attachments/assets/72521d33-827e-477f-bcf1-884ea0b632f9"
+/>
+
+
+<img
+    align="left"
+    title="Bootstrap"
+    width="30px"
+    src="https://github.com/user-attachments/assets/38808af9-8ba0-4e76-991a-afd2cfae5ce7"
+/>
+
 <br/>
 <br/> 
 <br/>
@@ -48,22 +64,9 @@
 <h3 align="left">I'm currently learning:</h3>
 <img
     align="left"
-    title="Git"
-    width="30px" 
-    src="https://github.com/user-attachments/assets/72521d33-827e-477f-bcf1-884ea0b632f9"
-/>
-
-<img
-    align="left"
-    title="GitHub"
+    title="PHP"
     width="30px"
-    src="https://github.com/user-attachments/assets/438c3546-3047-487a-8335-1b296ade7ead"
-/>
-<img
-    align="left"
-    title="Bootstrap"
-    width="30px"
-    src="https://github.com/user-attachments/assets/38808af9-8ba0-4e76-991a-afd2cfae5ce7"
+    src="https://img.icons8.com/?size=100&id=f0R4xVI4Sc8O&format=png&color=000000"
 />
 
 <!--
