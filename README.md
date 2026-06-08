@@ -55,6 +55,12 @@
     src="https://github.com/user-attachments/assets/38808af9-8ba0-4e76-991a-afd2cfae5ce7"
 />
 
+<img
+    align="left"
+    title="PHP"
+    width="30px"
+    src="https://img.icons8.com/?size=100&id=f0R4xVI4Sc8O&format=png&color=000000"
+/>
 <br/>
 <br/> 
 <br/>
@@ -62,13 +68,13 @@
 ##
 
 <h3 align="left">I'm currently learning:</h3>
+
 <img
     align="left"
-    title="PHP"
+    title="Angular"
     width="30px"
-    src="https://img.icons8.com/?size=100&id=f0R4xVI4Sc8O&format=png&color=000000"
+    src="https://img.icons8.com/?size=100&id=71257&format=png&color=000000"
 />
-
 <!--
 **MizaelMonteiro/MizaelMonteiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
