@@ -14,9 +14,9 @@
 />
 <img
     align="left"
-    title="JavaScript"
+    title="TypeScript"
     width="30px"
-    src="https://github.com/user-attachments/assets/2a7294cf-dbad-4c15-9df0-48de245e5a6f"
+    src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000"
 />
 
 
@@ -74,6 +74,12 @@
     title="Angular"
     width="30px"
     src="https://img.icons8.com/?size=100&id=71257&format=png&color=000000"
+/>
+<img
+    align="left"
+    title="Angular"
+    width="30px"
+    src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000"
 />
 <!--
 **MizaelMonteiro/MizaelMonteiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
